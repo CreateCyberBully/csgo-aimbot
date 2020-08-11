@@ -14,7 +14,7 @@ DWORD engine = (DWORD)GetModuleHandle("engine.dll");
 
 bool ValidPlayer(DWORD ent, DWORD lp)
 {
-	if (ent != lp && *(DWORD*)(ent+ 0x100) > 0 && *(DWORD*)(ent + 0xED))
+	if (ent != lp && *(DWORD*)(ent+ 0x100) > 0)
 		return true;
 	else
 		return false;
