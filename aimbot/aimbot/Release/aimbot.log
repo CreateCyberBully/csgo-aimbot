@@ -1,0 +1,10 @@
+﻿  dllmain.cpp
+C:\Users\hitle\source\repos\aimbot\aimbot\dllmain.cpp(59,23): warning C4244: 'initializing': conversion from 'float' to 'DWORD', possible loss of data
+C:\Users\hitle\source\repos\aimbot\aimbot\dllmain.cpp(62,16): warning C4244: '=': conversion from 'DWORD' to 'float', possible loss of data
+C:\Users\hitle\source\repos\aimbot\aimbot\dllmain.cpp(130,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\hitle\source\repos\aimbot\aimbot\dllmain.cpp(139,39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 16 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  aimbot.vcxproj -> C:\Users\hitle\source\repos\aimbot\Release\aimbot.dll
